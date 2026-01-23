@@ -12,7 +12,7 @@ Program dibagi menjadi beberapa modul untuk memenuhi syarat arsitektur modular:
 
 ## Dokumentasi & Demo
 Berikut adalah tautan untuk melihat penjelasan proses pembuatan dan demo jalannya program:
-* **Link Video YouTube**:
+* **Link Video YouTube**:https://youtu.be/PStFyEjmkhA?si=V6j8ZkNeY-VHiq1B
 
   
 ## pemerograman Python
@@ -152,5 +152,5 @@ Fungsi: Menjalankan perulangan menu (looping) sehingga pengguna dapat terus mena
 
 ## Output pemerograman python
 
-<img src="output/bagian1.png" />
-<img src="output/bagian2.png"/>
+<img width="1768" height="734" alt="bagian 1" src="https://github.com/user-attachments/assets/d9e15045-85e0-4c0c-bfcb-babff4a9d01f" />
+<img width="1736" height="797" alt="bagian 2" src="https://github.com/user-attachments/assets/93cc2f69-c661-478a-941e-307c34b61677" />
